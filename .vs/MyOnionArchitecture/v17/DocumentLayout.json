@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johny\\source\\repos\\MyOnionArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5815677-C850-4819-923D-4615710F0A28}|MyOnionArchitecture\\MyOnionArchitecture.csproj|c:\\users\\johny\\source\\repos\\myonionarchitecture\\myonionarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5815677-C850-4819-923D-4615710F0A28}|MyOnionArchitecture\\MyOnionArchitecture.csproj|solutionrelative:myonionarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johny\\source\\repos\\MyOnionArchitecture\\MyOnionArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "MyOnionArchitecture\\Program.cs",
+              "ToolTip": "C:\\Users\\johny\\source\\repos\\MyOnionArchitecture\\MyOnionArchitecture\\Program.cs",
+              "RelativeToolTip": "MyOnionArchitecture\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:45:28.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
